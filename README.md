@@ -12,4 +12,5 @@
 * [Day_010_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_010_HW.ipynb)
 * [Day_011_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_011_HW.ipynb)
 * [Day_012_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_012_HW.ipynb)
+* [Day_013_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_013_HW.ipynb)
 *
