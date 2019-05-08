@@ -1,4 +1,4 @@
-# 2nd-ML100Days
+﻿# 2nd-ML100Days
 100-day challenge for machine learning programming in python<br>
 
 ### 資料清理數據前處理<br>
@@ -35,4 +35,5 @@
 * Day_016_HW [Code](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_016_HW.ipynb) [Image](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_016_HW.jpg)<br>
     Logistic Regression<br>
 ### 資料科學特徵工程技術<br>   
-*
+* [Day_017_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb)<br>
+    特徵工程簡介<br>
