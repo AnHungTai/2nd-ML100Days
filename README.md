@@ -37,3 +37,6 @@
 ### 資料科學特徵工程技術<br>   
 * [Day_017_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_017_HW.ipynb)<br>
     特徵工程簡介<br>
+* [Day_018_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_018_HW.ipynb)<br>
+    特徵類型<br>
+*
