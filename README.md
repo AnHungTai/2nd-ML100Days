@@ -41,4 +41,6 @@
     特徵類型<br>
 * [Day_019_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_019_HW.ipynb)<br>
     數值型特徵: 補缺失值與標準化
+* [Day_020_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_020_HW.ipynb)<br>
+    數值型特徵: 去除離群值
 *
