@@ -45,4 +45,6 @@
     數值型特徵: 去除離群值
 * [Day_021_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_021_HW.ipynb)<br>
     數值型特徵: 去除偏態
+* [Day_022_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_022_HW.ipynb)<br>
+    類別型特徵: 基礎處理
 *
