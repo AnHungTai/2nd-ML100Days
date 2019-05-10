@@ -49,4 +49,6 @@
     類別型特徵: 基礎處理
 * [Day_023_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_023_HW.ipynb)<br>
     類別型特徵: 均值編碼
+* [Day_024_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_024_HW.ipynb)<br>
+    類別型特徵: 計數編碼與雜湊編碼
 *
