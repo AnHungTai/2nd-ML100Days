@@ -47,4 +47,6 @@
     數值型特徵: 去除偏態
 * [Day_022_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_022_HW.ipynb)<br>
     類別型特徵: 基礎處理
+* [Day_023_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_023_HW.ipynb)<br>
+    類別型特徵: 均值編碼
 *
