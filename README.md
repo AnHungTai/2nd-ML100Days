@@ -53,4 +53,6 @@
     類別型特徵: 計數編碼與雜湊編碼
 * [Day_025_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_025_HW.ipynb)<br>
     時間型特徵
+* [Day_026_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_026_HW.ipynb)<br>
+    特徵組合: 數值與數值組合
 *
