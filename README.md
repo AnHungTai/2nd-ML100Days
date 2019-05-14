@@ -55,4 +55,6 @@
     時間型特徵
 * [Day_026_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_026_HW.ipynb)<br>
     特徵組合: 數值與數值組合
+* [Day_027_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_027_HW.ipynb)<br>
+    特徵組合: 類別與數值組合
 *
