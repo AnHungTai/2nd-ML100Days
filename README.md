@@ -57,4 +57,6 @@
     特徵組合: 數值與數值組合
 * [Day_027_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_027_HW.ipynb)<br>
     特徵組合: 類別與數值組合
+* [Day_028_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_028_HW.ipynb)<br>
+    特徵選擇
 *
