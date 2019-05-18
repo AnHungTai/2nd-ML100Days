@@ -61,4 +61,6 @@
     特徵選擇
 * [Day_029_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb)<br>
     特徵評估
+* [Day_030_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_030_HW.ipynb)<br>
+    分類型特徵優化: 葉編碼
 *
