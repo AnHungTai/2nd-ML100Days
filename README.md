@@ -59,4 +59,6 @@
     特徵組合: 類別與數值組合
 * [Day_028_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_028_HW.ipynb)<br>
     特徵選擇
+* [Day_029_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb)<br>
+    特徵評估
 *
