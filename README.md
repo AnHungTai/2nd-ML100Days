@@ -66,4 +66,6 @@
 ### 機器學習基礎模型建立<br>   
 * [Day_031_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_031_HW.ipynb)<br>
     機器學習概論
+* [Day_032_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_032_HW.ipynb)<br>
+    機器學習的流程與步驟
 *
