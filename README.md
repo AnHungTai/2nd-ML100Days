@@ -62,5 +62,8 @@
 * [Day_029_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_029_HW.ipynb)<br>
     特徵評估
 * [Day_030_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_030_HW.ipynb)<br>
-    分類型特徵優化: 葉編碼
+    分類型特徵優化: 葉編碼<br>
+### 機器學習基礎模型建立<br>   
+* [Day_031_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_031_HW.ipynb)<br>
+    機器學習概論
 *
