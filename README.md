@@ -70,4 +70,6 @@
     機器學習的流程與步驟
 * [Day_033_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_033_HW.ipynb)<br>
     機器學習的定義
+* [Day_034_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb)<br>
+    測試集切分的概念
 *
