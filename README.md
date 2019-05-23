@@ -72,4 +72,6 @@
     機器學習的定義
 * [Day_034_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_034_HW.ipynb)<br>
     測試集切分的概念
+* [Day_035_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb)<br>
+    回歸與分類問題
 *
