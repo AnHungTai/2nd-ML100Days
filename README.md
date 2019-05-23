@@ -74,4 +74,6 @@
     測試集切分的概念
 * [Day_035_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_035_HW.ipynb)<br>
     回歸與分類問題
+* [Day_036_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_036_HW.ipynb)<br>
+    評估指標的選定
 *
