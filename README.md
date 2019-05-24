@@ -78,4 +78,6 @@
     評估指標的選定
 * [Day_037_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_037_HW.ipynb)<br>
     線性迴歸與羅吉斯回歸
+* [Day_038_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_038_HW.ipynb)<br>
+    迴歸模型撰寫
 *
