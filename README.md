@@ -76,4 +76,6 @@
     回歸與分類問題
 * [Day_036_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_036_HW.ipynb)<br>
     評估指標的選定
+* [Day_037_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_037_HW.ipynb)<br>
+    線性迴歸與羅吉斯回歸
 *
