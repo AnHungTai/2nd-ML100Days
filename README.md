@@ -80,4 +80,6 @@
     線性迴歸與羅吉斯回歸
 * [Day_038_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_038_HW.ipynb)<br>
     迴歸模型撰寫
+* [Day_039_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_039_HW.ipynb)<br>
+    脊回歸與拉索回歸
 *
