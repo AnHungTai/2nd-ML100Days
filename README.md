@@ -93,5 +93,8 @@
 * [Day_044_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_044_HW.ipynb)<br>
     隨機森林程式碼撰寫
 * [Day_046_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_046_HW.ipynb)<br>
-    梯度提升程式碼撰寫
+    梯度提升程式碼撰寫<br>  
+### 機器學習調整參數<br>  
+* [Day_047_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)<br>
+    超參數調整與優化
 *
