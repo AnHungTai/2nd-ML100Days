@@ -97,4 +97,6 @@
 ### 機器學習調整參數<br>  
 * [Day_047_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_047_HW.ipynb)<br>
     超參數調整與優化
+* [Day_048_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb)<br>
+    Kaggle競賽平台介紹
 *
