@@ -99,4 +99,6 @@
     超參數調整與優化
 * [Day_048_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_048_HW.ipynb)<br>
     Kaggle競賽平台介紹
+* [Day_049_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb)<br>
+    混合泛化
 *
