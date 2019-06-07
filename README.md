@@ -101,4 +101,6 @@
     Kaggle競賽平台介紹
 * [Day_049_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_049_HW.ipynb)<br>
     混合泛化
+* [Day_050_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb)<br>
+    堆疊泛化
 *
