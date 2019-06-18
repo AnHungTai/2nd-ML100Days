@@ -103,4 +103,7 @@
     混合泛化
 * [Day_050_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_050_HW.ipynb)<br>
     堆疊泛化
+### 非監督式機器學習<br> 
+* [Day_054_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb)<br>
+    非監督式機器學習簡介
 *
