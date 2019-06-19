@@ -106,4 +106,6 @@
 ### 非監督式機器學習<br> 
 * [Day_054_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_054_HW.ipynb)<br>
     非監督式機器學習簡介
+* [Day_055_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_055_HW.ipynb)<br>
+    K-Means聚類算法
 *
