@@ -110,4 +110,6 @@
     K-Means聚類算法
 * [Day_056_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_056_HW.ipynb)<br>
     輪廓分析
-*
+* [Day_057_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb)<br>
+    Hierarchical聚類算法
+* 
