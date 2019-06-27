@@ -116,4 +116,6 @@
     使用2D樣板資料集
 * [Day_059_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_059_HW.ipynb)<br>
     PCA特徵降維
+* [Day_060_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_060_HW.ipynb)<br>
+    使用手寫資料集
 *
