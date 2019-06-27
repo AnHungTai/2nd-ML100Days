@@ -112,4 +112,6 @@
     輪廓分析
 * [Day_057_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_057_HW.ipynb)<br>
     Hierarchical聚類算法
-* 
+* [Day_058_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_058_HW.ipynb)<br>
+    使用2D樣板資料集
+*
