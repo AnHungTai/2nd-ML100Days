@@ -125,4 +125,6 @@
 ### 深度學習理論與實作<br>
 * [Day_063_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb)<br>
     神經網路介紹
+* [Day_064_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb)<br>
+    模型調整體驗
 *
