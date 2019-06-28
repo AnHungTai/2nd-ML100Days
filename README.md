@@ -126,5 +126,6 @@
 * [Day_063_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_063_HW.ipynb)<br>
     神經網路介紹
 * [Day_064_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_064_HW.ipynb)<br>
-    模型調整體驗
-*
+    模型調整體驗(1)
+* [Day_065_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb)<br>
+    模型調整體驗(2)
