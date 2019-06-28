@@ -120,4 +120,6 @@
     使用手寫資料集
 * [Day_061_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb)<br>
     t-SNE特徵降維   
+* [Day_062_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_061_HW.ipynb)<br>
+    流形還原
 *
