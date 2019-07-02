@@ -129,3 +129,7 @@
     模型調整體驗(1)
 * [Day_065_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_065_HW.ipynb)<br>
     模型調整體驗(2)
+### 初探深度學習使用Keras<br>
+* [Day_066_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb)<br>
+    Keras安裝與介紹
+*
