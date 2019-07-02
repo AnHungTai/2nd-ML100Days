@@ -132,4 +132,6 @@
 ### 初探深度學習使用Keras<br>
 * [Day_066_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_066_HW.ipynb)<br>
     Keras安裝與介紹
+* [Day_067_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb)<br>
+    Keras數據集
 *
