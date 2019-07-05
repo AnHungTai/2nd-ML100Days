@@ -136,4 +136,6 @@
     Keras數據集
 * [Day_068_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb)<br>
     Keras Sequential API
+* [Day_069_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb)<br>
+    Keras Module API
 *
