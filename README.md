@@ -134,4 +134,6 @@
     Keras安裝與介紹
 * [Day_067_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_067_HW.ipynb)<br>
     Keras數據集
+* [Day_068_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_068_HW.ipynb)<br>
+    Keras Sequential API
 *
