@@ -138,4 +138,6 @@
     Keras Sequential API
 * [Day_069_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_069_HW.ipynb)<br>
     Keras Module API
+* [Day_070_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb)<br>
+    多層感知
 *
