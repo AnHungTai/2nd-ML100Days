@@ -140,4 +140,6 @@
     Keras Module API
 * [Day_070_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_070_HW.ipynb)<br>
     多層感知
+* [Day_071_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb)<br>
+    損失函數
 *
