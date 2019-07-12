@@ -142,4 +142,6 @@
     多層感知
 * [Day_071_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_071_HW.ipynb)<br>
     損失函數
+* [Day_072_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb)<br>
+    啟動函數
 *
