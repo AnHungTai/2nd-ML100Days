@@ -145,5 +145,7 @@
 * [Day_072_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_072_HW.ipynb)<br>
     啟動函數
 * [Day_073_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_073_HW.ipynb)<br>
-    梯度下降
+    梯度下降(1)
+* [Day_074_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb)<br>
+    梯度下降(2)
 *
