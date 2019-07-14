@@ -148,4 +148,6 @@
     梯度下降(1)
 * [Day_074_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_074_HW.ipynb)<br>
     梯度下降(2)
+* [Day_075_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb)<br>
+    反向傳播
 *
