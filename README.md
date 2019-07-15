@@ -150,4 +150,6 @@
     梯度下降(2)
 * [Day_075_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_075_HW.ipynb)<br>
     反向傳播
+* [Day_076_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb)<br>
+    優化器
 *
