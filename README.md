@@ -152,4 +152,6 @@
     反向傳播
 * [Day_076_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_076_HW.ipynb)<br>
     優化器
+* [Day_077_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb)<br>
+    訓練神經網路的細節與技巧
 *
