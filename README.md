@@ -154,4 +154,6 @@
     優化器
 * [Day_077_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_077_HW.ipynb)<br>
     訓練神經網路的細節與技巧
+* [Day_078_HW](https://github.com/AnHungTai/2nd-ML100Days/blob/master/homework/Day_078_HW.ipynb)<br>
+    訓練神經網路前的注意事項
 *
